@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fourcountry/static/css/main.e6c13ad2.css",
+    "main.js": "/fourcountry/static/js/main.45650780.js",
+    "static/js/787.27b1d7f2.chunk.js": "/fourcountry/static/js/787.27b1d7f2.chunk.js",
+    "index.html": "/fourcountry/index.html",
+    "main.e6c13ad2.css.map": "/fourcountry/static/css/main.e6c13ad2.css.map",
+    "main.45650780.js.map": "/fourcountry/static/js/main.45650780.js.map",
+    "787.27b1d7f2.chunk.js.map": "/fourcountry/static/js/787.27b1d7f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.45650780.js"
+  ]
+}
